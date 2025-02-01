@@ -1,5 +1,5 @@
 ## E-Commerce Store
-Cars Point is a modern e-commerce platform built with React.js, offering a seamless experience for car enthusiasts and vehicle owners. Whether you're looking to buy a new or used car, or need high-quality parts and accessories, Cars Point has you covered.
+Car Store is a modern e-commerce platform built with React.js, offering a seamless experience for car enthusiasts and vehicle owners. Whether you're looking to buy a new or used car, or need high-quality parts and accessories, Car Store has you covered.
 
 ## Features
 
